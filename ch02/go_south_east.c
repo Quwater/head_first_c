@@ -12,5 +12,5 @@ int main()
 	int longitude = -64;
 	go_south_east(&latitude, &longitude);
 	printf("停！当前位置： [%d, %d]\n", latitude, longitude);
-	return 0;
+	return 0;  
 }
